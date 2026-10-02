@@ -23,6 +23,11 @@
     "comments": "off",
     "strings": "on"
   },
+  "js/ts.tsdk.path": "./node_modules/typescript/lib",
+  "js/ts.tsdk.promptToUseWorkspaceVersion": true,
+  "js/ts.suggest.enabled": true,
+  "js/ts.suggest.autoImports": true,
+  "js/ts.preferences.includePackageJsonAutoImports": "on",
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
   "editor.codeActionsOnSave": {
